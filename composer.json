@@ -16,5 +16,7 @@
         "laravel": {
             "providers": "Kyle\\Bigzero\\BigzeroServiceProvider"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
