@@ -28,4 +28,9 @@ class BigzeroServiceProvider extends ServiceProvider implements DeferrableProvid
     {
 
     }
+
+    public function provides()
+    {
+        return ['know'];
+    }
 }
