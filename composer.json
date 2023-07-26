@@ -1,0 +1,20 @@
+{
+    "name": "kyle/bigzero",
+    "authors": [
+        {
+            "name": "kylelee",
+            "email": "kylelee@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kyle\\Bigzero\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": "Kyle\\Bigzero\\BigzeroServiceProvider"
+        }
+    }
+}
