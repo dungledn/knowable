@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravel\Socialite\Facades;
+namespace Kyle\Bigzero\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
